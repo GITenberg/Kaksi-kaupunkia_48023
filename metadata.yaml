@@ -1,0 +1,26 @@
+_repo: Kaksi-kaupunkia_48023
+contributor:
+  translator:
+    agent_name: Järnefelt, Saimi
+    gutenberg_agent_id: '44582'
+    url: http://www.gutenberg.org/2009/agents/44582
+creator:
+  author:
+    agent_name: Dickens, Charles
+    alias: Boz
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
+description: Translation of "A Tale of Two Cities"
+gutenberg_issued: '2015-01-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48023'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Kaksi kaupunkia
+url: http://www.gutenberg.org/ebooks/48023
