@@ -1,9 +1,13 @@
 _repo: Kaksi-kaupunkia_48023
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Järnefelt, Saimi
     gutenberg_agent_id: '44582'
     url: http://www.gutenberg.org/2009/agents/44582
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dickens, Charles
@@ -14,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37
     wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
 description: Translation of "A Tale of Two Cities"
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48023#Kaksi-kaupunkia
 gutenberg_issued: '2015-01-19'
 gutenberg_type: Text
 identifiers:
